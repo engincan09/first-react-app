@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-PROD: [http://react.engincan.net]http://react.engincan.net
+PROD: http://react.engincan.net
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
